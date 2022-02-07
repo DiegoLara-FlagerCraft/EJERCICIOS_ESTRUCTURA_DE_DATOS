@@ -1,0 +1,18 @@
+ENUNCIADO EJERCICIO #2
+
+Escriba un programa que genere e imprima un cuadrado mágico de dimensión N. observe
+que N es entero, positivo e impar. Un cuadrado mágico es una matriz cuadrada de orden N,
+que contiene a los números naturales del 1 al N*N, y donde la suma de cualquiera de las
+filas  y  columnas  o  diagonales  principales  es  siempre  la  misma.  Pueden  utilizar  los
+siguientes pasos para generar un cuadrado mágico.
+
+•El numero 1 se coloca en la casilla central del primer renglón.
+
+•El siguiente numero se coloca en la casilla correspondiente al renglón anterior y columna
+posterior.
+
+•El  renglón  anterior  al  primero  es  el  ultimo,  y  la  columna  posterior  a  la  ultima  es  la
+primera.
+
+•Si el numero es un sucesor de un múltiplo de N, no se aplica la regla 2, sino que se coloca
+en la casilla del renglón posterior y en la misma columna.

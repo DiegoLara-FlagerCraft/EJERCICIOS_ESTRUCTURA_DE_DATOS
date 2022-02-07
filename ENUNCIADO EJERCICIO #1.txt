@@ -1,0 +1,18 @@
+ENUNCIADO EJERCICIO #1
+
+Una compañía almacena la información relacionada con sus proveedores: PROVEEDORES,
+CIUDAD,  NUMERO  DE  ARTÍCULOS.  Escriba  un  programa  que  pueda  llevar  acabo  lassiguientes transacciones.
+
+•Dado el nombre de un proveedor, informar el nombre de la ciudad en la que reside y el número de artículos 
+que provee. La información del articulo es id, nombre y valor.
+
+•Actualizar el nombre de la ciudad, en caso de que un proveedor cambie de domicilio. Los datos serán el
+nombre del proveedor y el nombre de la ciudad a la cual se mudó.
+
+•Actualizar  el  número  de  artículos,  manejados  por  un  proveedor  para  el  caso  de  que  este  aumente  o
+disminuya.
+
+•La compañía incorpora un nuevo proveedor, actualizar sin alterar el orden de PROVEEDORES. Los datos serán
+el nombre del proveedor, el nombre de la ciudad y el total de artículos que provee.
+
+•La compañía da de baja a un proveedor. Actualizar. El dato será el nombre del proveedor.
